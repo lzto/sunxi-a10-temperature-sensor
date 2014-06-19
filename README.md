@@ -12,4 +12,7 @@ b =[
      ]
 ```
 
+![Figure 1](https://raw.githubusercontent.com/lovewilliam/sunxi-a10-temperature-sensor/master/data/res.png)
+
+![Figure 2](https://raw.githubusercontent.com/lovewilliam/sunxi-a10-temperature-sensor/master/data/templog.png)
 
